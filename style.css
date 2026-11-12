@@ -1,0 +1,62 @@
+body {
+ background-color: #f0f0f0 ;
+ font-family: Arial, sans-serif;
+ text-align: center;
+ padding: 30px;
+}
+h1   {  
+    color: green;
+    font-size: 40px;
+}
+
+p {
+   color: #444444;
+font-size: 20px;
+}
+
+.products {
+   display:flex ;
+   justify-content: center;
+   gap: 20px;
+   flex-wrap: wrap;
+margin-top: 30px;
+}
+
+.card {
+background-color: white;
+width: 200px;
+padding: 20px;
+border-radius: 15px;
+box-shadow: 0 4px 10px gray;
+}
+
+.card h3 {
+    color: green;
+}
+.card p {
+    font-size: 16px;
+}
+.card h4 {
+  color: orange;
+}
+.whatsapp-btn {
+       display: inline;
+       background-color: #25d366;
+       color: white;
+       padding: 12px 25px;
+       text-decoration: none;
+       border-radius: 8px;
+       font-size: 18px;
+       font-weight: bold;
+       margin-top: 20px ;
+}
+
+
+
+
+
+
+
+
+
+
